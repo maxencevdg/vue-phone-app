@@ -1,6 +1,6 @@
 # rendu-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. This is a school project where the goal was to create a phone app in Vue.js
 
 ## Recommended IDE Setup
 
